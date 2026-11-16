@@ -1,3 +1,4 @@
+
 ![Tousif Shahriar Banner](./banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1500&color=05D9E8&center=true&vCenter=true&width=900&height=50&lines=Hello,+I+am+Glosper,+aka+Tousif;I+am+a+Cybersecurity+%26+Full-Stack+Engineer;I+like+making+and+taking+things+apart!;Connect+with+me+at+glosper.dev%40gmail.com)](https://git.io/typing-svg)
@@ -84,14 +85,22 @@ Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, 
 
 ## 🎖️ Gym Badges
 
-* **Kovira** *(offline-first encrypted personal ledger)*
+* 🎮 **PSPKVM REDUX** *(bringing Java ME gaming back to the PSP)*
+  * Modern continuation and experimentation around the classic PSPKVM Java ME runtime.
+  * Exploring Java ME compatibility, runtime behaviour, graphics and audio.
+  * Testing across PPSSPP and physical PSP hardware.
+  * Reproducible builds and compatibility improvements.
+  * A hands-on journey through legacy software, runtime engineering and retro gaming.
+  * → [`/PSPKVM_REDUX`](https://github.com/Glospers/PSPKVM_REDUX)
+
+* 🔐 **Kovira** *(offline-first encrypted personal ledger)*
   * Flutter, Dart, SQLite, Google Drive API, AES-256-CBC + PBKDF2
   * Cross-platform Android app for tracking daily transactions
   * Local-first storage, user-owned encrypted backups to Google Drive
   * Material 3 theming
   * → [`/Kovira`](https://github.com/Glospers/Kovira)
 
-* **Remittance Platform** *(in private development)*
+* 💸 **Remittance Platform** *(in private development)*
   * Next.js 16, React, TypeScript, Tailwind
   * Node.js, PostgreSQL, Prisma
   * NextAuth + WebAuthn passkey authentication
@@ -99,7 +108,7 @@ Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, 
   * Auto Let's Encrypt HTTPS, dockerized deployment
   * Built for an Australian fintech. Source private. Happy to discuss architecture.
 
-* **MDCS** *(responsive cleaning services landing page)*
+* 🌐 **MDCS** *(responsive cleaning services landing page)*
   * HTML5, CSS3, vanilla JS
   * Hosted on GitHub Pages
   * Accessible nav, responsive grid, basic SEO
