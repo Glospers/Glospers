@@ -128,8 +128,6 @@ Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, 
 
 ## 🧾 The Receipts
 
-## 🧾 The Receipts
-
 <p align="center">
   <a href="https://github.com/Glospers">
     <img
