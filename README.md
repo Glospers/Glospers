@@ -128,9 +128,24 @@ Outside the day job, I'm focused on cybersecurity (currently studying for CCNA, 
 
 ## 🧾 The Receipts
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Glospers&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=29B6F6&text_color=81D4FA)
+## 🧾 The Receipts
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Glospers&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=81D4FA)
+<p align="center">
+  <a href="https://github.com/Glospers">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=Glospers&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=29B6F6&text_color=81D4FA"
+      alt="Glospers GitHub Stats"
+      height="180"
+    />
+  </a>
+  <a href="https://github.com/Glospers?tab=repositories">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Glospers&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=81D4FA"
+      alt="Glospers Top Languages"
+      height="180"
+    />
+  </a>
+</p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Glospers&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A2942&ring=4FC3F7&fire=29B6F6&currStreakLabel=4FC3F7)
 
